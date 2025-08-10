@@ -1,5 +1,5 @@
 # Tasks performed
-1. Created GitHub repo (date: YYYY-MM-DD).
+1. Created GitHub repo.
 2. Initialized local repo and pushed main.
 3. Created dev branch and pushed.
 4. Created feature branches and merged via PRs.

@@ -1,7 +1,16 @@
-# basic ignores
+# Node
 node_modules/
-dist/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
 .env
-.idea/
+
+# General
+.DS_Store
 .vscode/
+.idea/
+dist/
+build/
 *.log
